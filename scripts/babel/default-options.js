@@ -34,6 +34,6 @@ module.exports = {
     'core-js/library/es6/map': 'core-js/library/es6/map',
     'promise': 'promise',
     'ua-parser-js': 'ua-parser-js',
-    'whatwg-fetch': 'whatwg-fetch'
+    'isomorphic-fetch': 'isomorphic-fetch'
   }
 };
